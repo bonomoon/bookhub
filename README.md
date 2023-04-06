@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-Bookhub is a next-generation web novel platform:stuck_out_tongue_winking_eye:, developed as a side project by <a aria-label="Numbe deepdive" href="https://www.numble.it/deepdive/41" target="_blank">Numble</a>.
+<strong>Bookhub</strong> is a next-generation web novel platform:stuck_out_tongue_winking_eye:, developed as a side project by <a aria-label="Numbe deepdive" href="https://www.numble.it/deepdive/41" target="_blank">Numble</a>.
 </p>
 
 <p align="center">
