@@ -1,4 +1,4 @@
-{
+export default {
   "expo": {
     "name": "북허브",
     "slug": "bookhub",
@@ -15,7 +15,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -27,6 +29,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": process.env.PROJECT_ID
+      }
+    },
+    "owner": "bono_moon"
   }
-}
+};

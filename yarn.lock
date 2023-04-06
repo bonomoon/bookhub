@@ -4384,6 +4384,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"dotenv@npm:^16.0.3":
+  version: 16.0.3
+  resolution: "dotenv@npm:16.0.3"
+  checksum: afcf03f373d7a6d62c7e9afea6328e62851d627a4e73f2e12d0a8deae1cd375892004f3021883f8aec85932cd2834b091f568ced92b4774625b321db83b827f8
+  languageName: node
+  linkType: hard
+
 "ee-first@npm:1.1.1":
   version: 1.1.1
   resolution: "ee-first@npm:1.1.1"
@@ -7484,6 +7491,7 @@ __metadata:
     "@babel/core": ^7.21.4
     "@types/react": ^18.0.33
     "@types/react-native": ^0.71.5
+    dotenv: ^16.0.3
     expo: ^48.0.10
     expo-status-bar: ^1.4.4
     react: ^18.2.0
