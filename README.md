@@ -23,13 +23,17 @@
 <p align="center">
   <a aria-label="try expo with snack" href="https://snack.expo.dev"><b>Try Expo in the Browser</b></a>
  |
-  <a aria-label="expo documentation" href=".">Read the Documentation 📚</a>
+  <a aria-label="expo documentation" href="#-documentation">Read the Documentation 📚</a>
 </p>
   
 ---
+- [📚 Documentation](#-documentation)
+- [🔭 Project Layout](#-project-layout)
+- [💑 Contributing](#-contributing)
+- [📑 License](#-license)
 
 <p align="center">
-<strong>Bookhub</strong> is a next-generation web novel platform:stuck_out_tongue_winking_eye:, developed as a side project by <a aria-label="Numbe deepdive" href="https://www.numble.it/deepdive/41" target="_blank">Numble</a>.
+Bookhub is a next-generation web novel platform:stuck_out_tongue_winking_eye:, developed as a side project by <a aria-label="Numbe deepdive" href="https://www.numble.it/deepdive/41" target="_blank">Numble</a>.
 </p>
 
 <p align="center">
@@ -40,9 +44,9 @@
    <img alt="Recommended List" width="18%" src="./.github/resources/screenshot_05_recommended_list.png" />
 </p>
 
-## 📚 Documentation
+# 📚 Documentation
 
-<p>Learn about building and deploying our apps <a aria-label="documentation" href=".">in our official docs!</a></p>
+<p>Learn about building and deploying our apps <a aria-label="documentation" href="#-documentation">in our official docs!</a></p>
 
 - [Project Introduction](https://www.numble.it/deepdive/41)
 - [Getting Started]()
@@ -52,7 +56,7 @@
 - [API Reference]()
 - [Data Modeling & ERD]()
 
-# Project Layout
+# 🔭 Project Layout
 
 This project is based on [Turborepo](https://turbo.build/repo/docs), which is an intelligent build system optimized for JavaScript and TypeScript codebases.
 
@@ -74,7 +78,6 @@ Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 - [Expo](https://docs.expo.dev/) for native development
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
 - [Prettier](https://prettier.io) for code formatting
-
 ## Getting Started
 
 Run the following command:
@@ -83,3 +86,19 @@ Run the following command:
 cd bookhub
 yarn dev
 ```
+
+## How do I access API server in local?
+
+[Bookhub-API](https://github.com/bonomoon/bookhub-api) is a separate project developed using Spring framework to serve Bookhub's APIs. Please refer to [README](https://github.com/bonomoon/bookhub-api#readme) for more information.
+
+# 💑 Contributing
+
+> Please check links below before commit.
+- [Monorepo with Trunk Based Development](https://trunkbaseddevelopment.com/monorepos/)
+- [Commit rule: Semantic Commit Messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+
+# 📑 License
+
+Bong-oh Moon – bongohmoon@gmail.com(bonomoon)
+
+Distributed under the [MIT license](LICENSE). See `LICENSE` for more information.
