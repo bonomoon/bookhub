@@ -103,4 +103,4 @@ Bong-oh Moon – bongohmoon@gmail.com(bonomoon)
 
 Distributed under the [MIT license](LICENSE). See `LICENSE` for more information.
 
-<img alt="Home" width="128px" src="./.github/resources/logo.png" />
+<img alt="Bookhub Logo" width="128px" src="./.github/resources/logo.png" />
